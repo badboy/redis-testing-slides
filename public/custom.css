@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900);
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.remark-slide-content {
+  background-color: white;
+  color: black;
+  padding: 0;
+}
+
+.hljs-default .hljs {
+  background-color: white;
+}
+
+li > code {
+  background-color: none;
+  padding: 0;
+}
+
+a:visited, a:active, a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+.stats h1, .stats h2 {
+  background-color: rgba(203, 56, 55, 1);
+  color: white;
+  padding: 10px 20px;
+}
+
+.footnote {
+  font-size: 1.0em;
+  padding: 5px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: white;
+}
+.footnote2 {
+  font-size: 1.0em;
+  padding: 5px;
+  position: absolute;
+  bottom: 60px;
+  left: 20px;
+  background-color: white;
+}
+
+.real-big {
+  font-size: 2em;
+}
+
+#heart {
+  position: relative;
+  top: 20px;
+}
+
+.command {
+  padding: 0px 15px;
+}
+.command code {
+  font-size: 1.2em;
+}
+
+.bullets ol, .bullets ul {
+  font-size: 2em;
+}
+.bullets ul {
+  list-style-type: none;
+}
+
+.nearly-huge h1 {
+  font-size: 7em;
+}
+.huge h1 {
+  font-size: 10em;
+}
+.bigger h1 {
+  font-size: 4em;
+}
+.bigger h2 {
+  font-size: 3em;
+}
+.bigger li {
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+.huge-code code {
+  font-size: 4em;
+}
+
+.bigger-code code {
+  font-size: 2em;
+}
