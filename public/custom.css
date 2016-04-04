@@ -24,6 +24,10 @@ a:visited, a:active, a {
   text-decoration: none;
 }
 
+h1 {
+  margin-left: 15px;
+}
+
 .stats h1, .stats h2 {
   background-color: rgba(203, 56, 55, 1);
   color: white;
@@ -92,5 +96,16 @@ a:visited, a:active, a {
 }
 
 .bigger-code code {
+  font-size: 3em;
+}
+
+.big-code code {
   font-size: 2em;
+}
+
+.hljs-default .hljs-comment {
+  color: #404040 ;
+}
+.remark-code-span-highlighted {
+  color: black;
 }
