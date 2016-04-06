@@ -118,3 +118,7 @@ ul, li {
 li > ul {
   font-size: 0.8em;
 }
+
+.gif {
+  background-size: 100%;
+}
