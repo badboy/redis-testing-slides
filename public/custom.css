@@ -122,3 +122,17 @@ li > ul {
 .gif {
   background-size: 100%;
 }
+
+
+.start h1,
+.start h3,
+.start a {
+  color: white;
+}
+
+.start h1 {
+  padding-top: 0px;
+}
+.start h3 {
+  padding-top: 500px;
+}
